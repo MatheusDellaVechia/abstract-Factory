@@ -12,7 +12,6 @@
 		"@types/pg-promise": "^5.4.3",
 		"aws-sdk": "^2.1589.0",
 		"axios": "^1.6.5",
-		"currency": "^4.1.0",
 		"currency.js": "^2.0.4",
 		"express": "^4.19.2",
 		"jest": "^29.7.0",
